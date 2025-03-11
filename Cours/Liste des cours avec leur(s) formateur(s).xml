@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024051300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Liste des cours avec leur(s) formateur(s)]]></name>
+<summary><![CDATA[<p dir="ltr" style="text-align:left;"><br></p>]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czo4MTk6IlNFTEVDVCUwRCUwQUNPTkNBVCUyOCUyNyUyNSUyNVdXV1JPT1QlMjUlMjUlMkZjb3Vyc2UlMkZ2aWV3LnBocCUzRmlkJTNEJTI3JTJDbWMuaWQlMjkrQVMlMEQlMEElMjJVUkwlMjIlMEQlMEElMkNtYy5zaG9ydG5hbWUrYXMrJTIyTm9tK2FiciVDMyVBOWclQzMlQTklMjIlMEQlMEElMkNtYy5mdWxsbmFtZSthcyslMjJOb20rY29tcGxldCUyMiUyQyUwRCUwQSUyOCtTRUxFQ1QrRElTVElOQ1QrQ09OQ0FUJTI4dS5maXJzdG5hbWUlMkMlMjcrJTI3JTJDdS5sYXN0bmFtZSUyQyslMjcrJTI4JTI3JTJDdS5lbWFpbCUyQyUyNyUyOSUyNyUyOSUwRCUwQUZST00rcHJlZml4X3JvbGVfYXNzaWdubWVudHMrQVMrcmElMEQlMEFKT0lOK3ByZWZpeF91c2VyK0FTK3UrT04rcmEudXNlcmlkKyUzRCt1LmlkJTBEJTBBSk9JTitwcmVmaXhfY29udGV4dCtBUytjdHgrT04rY3R4LmlkKyUzRCtyYS5jb250ZXh0aWQlMEQlMEFXSEVSRSUwRCUwQXJhLnJvbGVpZCslM0QrMTArKyUyMytGb3JtYXRldXIlMjhzJTI5JTBEJTBBQU5EK2N0eC5pbnN0YW5jZWlkKyUzRCttYy5pZCUwRCUwQUFORCtjdHguY29udGV4dGxldmVsKyUzRCs1MCtMSU1JVCsxJTI5K0FTKyUyMkZvcm1hdGV1ciUyMiUwRCUwQUZST00rcHJlZml4X2NvdXJzZSttYyUwRCUwQVdIRVJFJTBEJTBBbWMuY2F0ZWdvcnkrSU4rJTI4JTBEJTBBKytTRUxFQ1QrbWNjMi5pZCtGUk9NK3ByZWZpeF9jb3Vyc2VfY2F0ZWdvcmllcyttY2MyK1dIRVJFJTBEJTBBbWNjMi5wYXRoK0xJS0UrJTI3JTJGJTI1JTI3K09SK21jYzIucGF0aCUzRCUyNyUyRiUyNyslMEQlMEElMjklMEQlMEFvcmRlcitieSttYy5pZCI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxMToiRW5yZWdpc3RyZXIiO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fX0=]]></components>
+<export><![CDATA[csv,json,ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+<displaytotalrecords><![CDATA[1]]></displaytotalrecords>
+<displayprintbutton><![CDATA[1]]></displayprintbutton>
+</report>

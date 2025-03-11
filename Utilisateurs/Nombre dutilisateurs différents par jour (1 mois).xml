@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024051300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Nombre d'utilisateurs différents par jour (1 mois)]]></name>
+<summary><![CDATA[<p dir="ltr" style="text-align:left;">Affiche le nombre d'utilisateurs différents qui se sont connectés dans le mois</p>]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YTo0OntpOjA7YjowO3M6OToiY3VzdG9tc3FsIjthOjE6e3M6NjoiY29uZmlnIjtPOjg6InN0ZENsYXNzIjo2OntzOjg6InF1ZXJ5c3FsIjtzOjU1MjoiU0VMRUNUK2pvdXIrJTJDK2pvdXJtb2lzKyUyQytjb3VudCUyOCUyQSUyOSthcyslMjJOYnIrdXRpbGlzYXRldXJzJTIyJTBEJTBBRlJPTSUwRCUwQSUyOCUwRCUwQVNFTEVDVCtESVNUSU5DVCt1c2VyaWQrJTJDJTBEJTBBRlJPTV9VTklYVElNRSUyOHRpbWVjcmVhdGVkJTJDKyUyNyUyNWQlMjclMjkrYXMram91cislMkMlMEQlMEFGUk9NX1VOSVhUSU1FJTI4dGltZWNyZWF0ZWQlMkMrJTI3JTI1ZCUyRiUyNW0lMjclMjkrYXMram91cm1vaXMlMEQlMEFGUk9NK3ByZWZpeF9sb2dzdG9yZV9zdGFuZGFyZF9sb2clMEQlMEFXSEVSRSt0aW1lY3JlYXRlZCslM0UrJTI4JTI4JTI4JTI4VU5JWF9USU1FU1RBTVAlMjhOT1clMjglMjklMjklMjkrLSsyNjM1MjAwJTI5K0RJVis4NjQwMCUyOSslMkErODY0MDArJTI5JTBEJTBBK0FORCslMjhvcmlnaW4rJTNEJTI3d2ViJTI3K09SK29yaWdpbislM0QrJTI3d3MlMjclMjklMEQlMEFPUkRFUitCWStqb3VyJTBEJTBBJTI5K2FzK2RlY29tcHRlJTBEJTBBR1JPVVArQlkram91cislMkMram91cm1vaXMlMEQlMEFPUkRFUitCWStqb3VyIjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjExOiJFbnJlZ2lzdHJlciI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czoxOiIwIjtzOjE3OiJyZXBvcnRzaW5jYXRlZ29yeSI7czoxOiIwIjtzOjE0OiJyZW1vdGVxdWVyeXNxbCI7czowOiIiO319czo0OiJwbG90IjthOjE6e3M6ODoiZWxlbWVudHMiO2E6MTp7aTowO2E6NTp7czoyOiJpZCI7czoxNToiZ2tuS0x0VUtmWVBHR3REIjtzOjg6ImZvcm1kYXRhIjtPOjg6InN0ZENsYXNzIjo1OntzOjExOiJsYWJlbF9maWVsZCI7czoxMjoiMSUyQ2pvdXJtb2lzIjtzOjEyOiJ2YWx1ZV9maWVsZHMiO2E6MTp7aTowO3M6MjA6IjIlMkNuYnIrdXRpbGlzYXRldXJzIjt9czo1OiJ3aWR0aCI7aTo5MDA7czo2OiJoZWlnaHQiO2k6NTAwO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czo3OiJBam91dGVyIjt9czoxMDoicGx1Z2lubmFtZSI7czozOiJiYXIiO3M6MTQ6InBsdWdpbmZ1bGxuYW1lIjtzOjk6IkJhcitjaGFydCI7czo3OiJzdW1tYXJ5IjtzOjE3OiJCYXIrY2hhcnQrc3VtbWFyeSI7fX19czo1OiJjYWxjcyI7YToxOntzOjg6ImVsZW1lbnRzIjthOjA6e319fQ==]]></components>
+<export><![CDATA[]]></export>
+<jsordering><![CDATA[0]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[6]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+<displaytotalrecords><![CDATA[0]]></displaytotalrecords>
+<displayprintbutton><![CDATA[0]]></displayprintbutton>
+</report>

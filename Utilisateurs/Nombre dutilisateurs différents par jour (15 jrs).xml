@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024051300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Nombre d'utilisateurs différents par jour (15 jrs)]]></name>
+<summary><![CDATA[<p dir="ltr" style="text-align: left;">Affiche le nombre d'utilisateurs différents qui se sont connectés dans les 15 derniers jours</p>]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YTo0OntpOjA7YjowO3M6OToiY3VzdG9tc3FsIjthOjE6e3M6NjoiY29uZmlnIjtPOjg6InN0ZENsYXNzIjo2OntzOjg6InF1ZXJ5c3FsIjtzOjU1MzoiU0VMRUNUK2pvdXIrJTJDK2pvdXJtb2lzKyUyQytjb3VudCUyOCUyQSUyOSthcyslMjJOYnIrdXRpbGlzYXRldXJzJTIyJTBEJTBBRlJPTSUwRCUwQSUyOCUwRCUwQVNFTEVDVCtESVNUSU5DVCt1c2VyaWQrJTJDJTBEJTBBRlJPTV9VTklYVElNRSUyOHRpbWVjcmVhdGVkJTJDKyUyNyUyNWQlMjclMjkrYXMram91cislMkMlMEQlMEFGUk9NX1VOSVhUSU1FJTI4dGltZWNyZWF0ZWQlMkMrJTI3JTI1ZCUyRiUyNW0lMjclMjkrYXMram91cm1vaXMlMEQlMEFGUk9NK3ByZWZpeF9sb2dzdG9yZV9zdGFuZGFyZF9sb2clMEQlMEFXSEVSRSt0aW1lY3JlYXRlZCslM0UrJTI4JTI4JTI4JTI4VU5JWF9USU1FU1RBTVAlMjhOT1clMjglMjklMjklMjkrLSsxMjA5NjAwJTI5K0RJVis4NjQwMCUyOSslMkErODY0MDArJTI5JTBEJTBBKytBTkQrJTI4b3JpZ2luKyUzRCUyN3dlYiUyNytPUitvcmlnaW4rJTNEKyUyN3dzJTI3JTI5JTBEJTBBT1JERVIrQlkram91ciUwRCUwQSUyOSthcytkZWNvbXB0ZSUwRCUwQUdST1VQK0JZK2pvdXIrJTJDK2pvdXJtb2lzJTBEJTBBT1JERVIrQlkram91ciI7czo4OiJjb3Vyc2VpZCI7aToxO3M6MTI6InN1Ym1pdGJ1dHRvbiI7czoxMToiRW5yZWdpc3RyZXIiO3M6MTY6InJlcG9ydGNhdGVnb3JpZXMiO3M6MToiMCI7czoxNzoicmVwb3J0c2luY2F0ZWdvcnkiO3M6MToiMCI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fXM6NDoicGxvdCI7YToxOntzOjg6ImVsZW1lbnRzIjthOjE6e2k6MDthOjU6e3M6MjoiaWQiO3M6MTU6ImdrbktMdFVLZllQR0d0RCI7czo4OiJmb3JtZGF0YSI7Tzo4OiJzdGRDbGFzcyI6NTp7czoxMToibGFiZWxfZmllbGQiO3M6MTI6IjElMkNqb3VybW9pcyI7czoxMjoidmFsdWVfZmllbGRzIjthOjE6e2k6MDtzOjIwOiIyJTJDbmJyK3V0aWxpc2F0ZXVycyI7fXM6NToid2lkdGgiO2k6OTAwO3M6NjoiaGVpZ2h0IjtpOjUwMDtzOjEyOiJzdWJtaXRidXR0b24iO3M6NzoiQWpvdXRlciI7fXM6MTA6InBsdWdpbm5hbWUiO3M6MzoiYmFyIjtzOjE0OiJwbHVnaW5mdWxsbmFtZSI7czo5OiJCYXIrY2hhcnQiO3M6Nzoic3VtbWFyeSI7czoxNzoiQmFyK2NoYXJ0K3N1bW1hcnkiO319fXM6NToiY2FsY3MiO2E6MTp7czo4OiJlbGVtZW50cyI7YTowOnt9fX0=]]></components>
+<export><![CDATA[]]></export>
+<jsordering><![CDATA[0]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+<displaytotalrecords><![CDATA[0]]></displaytotalrecords>
+<displayprintbutton><![CDATA[0]]></displayprintbutton>
+</report>

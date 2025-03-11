@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024051300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Nombre d'utilisateurs différents par jour (sur 24h)]]></name>
+<summary><![CDATA[<p dir="ltr" style="text-align:left;">Affiche le nombre d'utilisateurs différents qui se sont connectés en 24h</p>]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YTo0OntpOjA7YjowO3M6OToiY3VzdG9tc3FsIjthOjE6e3M6NjoiY29uZmlnIjtPOjg6InN0ZENsYXNzIjo2OntzOjg6InF1ZXJ5c3FsIjtzOjQ0MzoiU0VMRUNUK2hldXJlJTJDK2NvdW50JTI4JTJBJTI5K2FzK25iX3VzZXJzJTBEJTBBRlJPTSUwRCUwQSUyOCUwRCUwQVNFTEVDVCtESVNUSU5DVCt1c2VyaWQrJTJDJTBEJTBBRlJPTV9VTklYVElNRSUyOHRpbWVjcmVhdGVkJTJDKyUyNyUyNWhoJTI3JTI5K2FzK2hldXJlJTBEJTBBRlJPTStwcmVmaXhfbG9nc3RvcmVfc3RhbmRhcmRfbG9nJTBEJTBBV0hFUkUrdGltZWNyZWF0ZWQrJTNFKyUyOCUyOCUyOCUyOFVOSVhfVElNRVNUQU1QJTI4Tk9XJTI4JTI5JTI5JTI5Ky0rODY0MDAlMjkrRElWKzg2NDAwJTI5KyUyQSs4NjQwMCslMjklMEQlMEErK0FORCslMjhvcmlnaW4rJTNEJTI3d2ViJTI3K09SK29yaWdpbislM0QrJTI3d3MlMjclMjklMEQlMEFPUkRFUitCWStoZXVyZSUwRCUwQSUyOSthcytkZWNvbXB0ZSUwRCUwQUdST1VQK0JZK2hldXJlJTBEJTBBT1JERVIrQlkraGV1cmUiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTE6IkVucmVnaXN0cmVyIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX1zOjQ6InBsb3QiO2E6MTp7czo4OiJlbGVtZW50cyI7YToxOntpOjA7YTo1OntzOjI6ImlkIjtzOjE1OiJvZjl0eE9UM3I4NExHQVEiO3M6ODoiZm9ybWRhdGEiO086ODoic3RkQ2xhc3MiOjU6e3M6MTE6ImxhYmVsX2ZpZWxkIjtzOjk6IjAlMkNoZXVyZSI7czoxMjoidmFsdWVfZmllbGRzIjthOjE6e2k6MDtzOjEyOiIxJTJDbmJfdXNlcnMiO31zOjU6IndpZHRoIjtpOjkwMDtzOjY6ImhlaWdodCI7aTo1MDA7czoxMjoic3VibWl0YnV0dG9uIjtzOjc6IkFqb3V0ZXIiO31zOjEwOiJwbHVnaW5uYW1lIjtzOjM6ImJhciI7czoxNDoicGx1Z2luZnVsbG5hbWUiO3M6OToiQmFyK2NoYXJ0IjtzOjc6InN1bW1hcnkiO3M6MTc6IkJhcitjaGFydCtzdW1tYXJ5Ijt9fX1zOjU6ImNhbGNzIjthOjE6e3M6ODoiZWxlbWVudHMiO2E6MDp7fX19]]></components>
+<export><![CDATA[]]></export>
+<jsordering><![CDATA[0]]></jsordering>
+<global><![CDATA[0]]></global>
+<lastexecutiontime><![CDATA[1]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+<displaytotalrecords><![CDATA[0]]></displaytotalrecords>
+<displayprintbutton><![CDATA[0]]></displayprintbutton>
+</report>

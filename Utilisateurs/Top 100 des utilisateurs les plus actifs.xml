@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2024051300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Top 100 des utilisateurs les plus actifs]]></name>
+<summary><![CDATA[]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[100]]></pagination>
+<components><![CDATA[YToyOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czoyNzc6IlNFTEVDVCtpZCUyQ3VzZXJuYW1lJTJDZmlyc3RuYW1lJTJDbGFzdG5hbWUlMkMrZW1haWwlMkMlMEQlMEElMjhTRUxFQ1QrY291bnQlMjglMkElMjkrZnJvbStwcmVmaXhfbG9nc3RvcmVfc3RhbmRhcmRfbG9nK21sK1dIRVJFK21sLnVzZXJpZCUzRG11LmlkK0FORCttbC5vcmlnaW4rJTNEKyUyN3dlYiUyNyUyOStBUyUwRCUwQUFjdGl2aXRlcyUwRCUwQWZyb20rcHJlZml4X3VzZXIrbXUlMEQlMEFXSEVSRSttdS5kZWxldGVkKyUzRCswJTBEJTBBb3JkZXIrYnkrQWN0aXZpdGVzK0RFU0MiO3M6ODoiY291cnNlaWQiO2k6MTtzOjEyOiJzdWJtaXRidXR0b24iO3M6MTE6IkVucmVnaXN0cmVyIjtzOjE2OiJyZXBvcnRjYXRlZ29yaWVzIjtzOjE6IjAiO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjE6IjAiO3M6MTQ6InJlbW90ZXF1ZXJ5c3FsIjtzOjA6IiI7fX1zOjExOiJwZXJtaXNzaW9ucyI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6MTp7czoxMzoiY29uZGl0aW9uZXhwciI7czowOiIiO319fQ==]]></components>
+<export><![CDATA[csv,json,ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[52]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+<displaytotalrecords><![CDATA[1]]></displaytotalrecords>
+<displayprintbutton><![CDATA[1]]></displayprintbutton>
+</report>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<report version="2020110300"><visible><![CDATA[1]]></visible>
+<name><![CDATA[Tests PL]]></name>
+<summary><![CDATA[]]></summary>
+<summaryformat><![CDATA[1]]></summaryformat>
+<type><![CDATA[sql]]></type>
+<pagination><![CDATA[0]]></pagination>
+<components><![CDATA[YToxOntzOjk6ImN1c3RvbXNxbCI7YToxOntzOjY6ImNvbmZpZyI7Tzo4OiJzdGRDbGFzcyI6Njp7czo4OiJxdWVyeXNxbCI7czozNjI6IiUyMyUyMyUyMytNb2R1bGVzK3VzYWdlK2luK2NvdXJzZXMrJTIzJTIzJTIzJTBEJTBBJTIzJTIzJTIzK0hvdyttdWNoK21vZHVsZXMrJTI4cmVzb3VyY2VzK2FuZCthY3Rpdml0aWVzJTI5K1RlYWNoZXJzK3VzZWQraW4rdGhlaXIrY291cnNlcyUyQytzeXN0ZW0rd2lkZSslMjMlMjMlMjMlMEQlMEElMEQlMEFTRUxFQ1QrQ09VTlQlMjgrY20uaWQrJTI5K0FTK2NvdW50ZXIlMkMrbS5uYW1lJTBEJTBBRlJPTStwcmVmaXhfY291cnNlX21vZHVsZXMrQVMrY20lMEQlMEFKT0lOK3ByZWZpeF9tb2R1bGVzK0FTK20rT04rY20ubW9kdWxlKyUzRCttLmlkJTBEJTBBR1JPVVArQlkrY20ubW9kdWxlJTBEJTBBT1JERVIrQlkrY291bnRlcitERVNDIjtzOjg6ImNvdXJzZWlkIjtpOjE7czoxMjoic3VibWl0YnV0dG9uIjtzOjExOiJFbnJlZ2lzdHJlciI7czoxNjoicmVwb3J0Y2F0ZWdvcmllcyI7czo2OiJzeXN0ZW0iO3M6MTc6InJlcG9ydHNpbmNhdGVnb3J5IjtzOjY6InN5c3RlbSI7czoxNDoicmVtb3RlcXVlcnlzcWwiO3M6MDoiIjt9fX0=]]></components>
+<export><![CDATA[csv,json,ods,xls,]]></export>
+<jsordering><![CDATA[1]]></jsordering>
+<global><![CDATA[1]]></global>
+<lastexecutiontime><![CDATA[0]]></lastexecutiontime>
+<cron><![CDATA[0]]></cron>
+<remote><![CDATA[0]]></remote>
+</report>
